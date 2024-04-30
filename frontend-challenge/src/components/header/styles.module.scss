@@ -1,0 +1,31 @@
+
+
+
+.main{
+  background: #0F52BA;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}
+.img{
+  margin-bottom: 28px;
+  margin-top: 28px;
+  margin-left:40px;
+
+}
+.cart{
+  margin-right: 42px;
+  border-style: none;
+  background-color: white;
+  padding: 10px;
+  color: #000;
+  font-family: Montserrat,sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  display: flex;
+  gap: 18px;
+  border-radius: 8px;
+}

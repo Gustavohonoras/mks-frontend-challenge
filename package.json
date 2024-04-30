@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "saas": "^1.0.0",
+    "scss": "^0.2.4"
+  },
+  "devDependencies": {
+    "sass": "^1.75.0"
+  }
+}
